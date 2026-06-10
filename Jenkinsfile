@@ -71,7 +71,7 @@ pipeline {
                     Statut   : SUCCESS 
                     Lien     : ${BUILD_URL}
                 """,
-                to: 'adrianina59@gmail.com',
+                to: 'arkkevin3211113@gmail.com',
                 recipientProviders: [requestor()]
             )
         }
