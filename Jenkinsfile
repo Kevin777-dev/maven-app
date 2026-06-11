@@ -54,7 +54,7 @@ pipeline {
 
                     Merci de vérifier les logs.
                 """,
-                to: 'adrianina59@gmail.com',
+                to: 'manjakahasina69@gmail.com',
                 recipientProviders: [requestor()]
             )
         }
@@ -71,7 +71,7 @@ pipeline {
                     Statut   : SUCCESS 
                     Lien     : ${BUILD_URL}
                 """,
-                to: 'arkkevin3211113@gmail.com',
+                to: 'manjakahasina69@gmail.com',
                 recipientProviders: [requestor()]
             )
         }
